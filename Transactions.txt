@@ -1,0 +1,14 @@
+06/01/18,John,5000,Pay Bii
+06/04/18,Mary,1000,Pay Biil
+06/04/18,Jake,50000,Cash deposit
+06/04/18,Mary,50000,Deposit cash
+06/05/18,Mary,5000,Pay biil
+06/05/18,Mary,5000,Pay biil
+06/05/18,Mary,5000,Fund transfer
+06/05/18,Mary,5000,Fund transfer
+06/06/18,Mary,10000,Open account
+06/06/18,Mary,5000,Cash withdrawal
+06/06/18,Mary,60000,Open account
+06/06/18,Mary,600,Cash withdrawal
+06/06/18,Mary,5000,Fund transfer
+06/07/18,Mary,10000,Deposit cash
